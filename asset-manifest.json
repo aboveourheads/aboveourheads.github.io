@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.97e3b31f.css",
-    "main.js": "/static/js/main.6dc088f2.js",
-    "static/media/preview.mp4": "/static/media/preview.e2efa2dc6f41c1b2b61b.mp4",
-    "static/media/roboto-all-400-normal.woff": "/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
-    "static/media/roboto-latin-400-normal.woff2": "/static/media/roboto-latin-400-normal.4673b4537a84c7f7a130.woff2",
-    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/static/media/roboto-cyrillic-ext-400-normal.493afe7ae8ecfe268800.woff2",
-    "static/media/roboto-latin-ext-400-normal.woff2": "/static/media/roboto-latin-ext-400-normal.c3dcdbd5bb4d4af80817.woff2",
-    "static/media/roboto-cyrillic-400-normal.woff2": "/static/media/roboto-cyrillic-400-normal.5e493812deabd1d01e60.woff2",
-    "static/media/roboto-greek-400-normal.woff2": "/static/media/roboto-greek-400-normal.1cbfc636c911faa4d0ca.woff2",
-    "static/media/roboto-vietnamese-400-normal.woff2": "/static/media/roboto-vietnamese-400-normal.c0bec65d01f776c00c91.woff2",
-    "static/media/roboto-greek-ext-400-normal.woff2": "/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
-    "index.html": "/index.html",
-    "main.97e3b31f.css.map": "/static/css/main.97e3b31f.css.map",
-    "main.6dc088f2.js.map": "/static/js/main.6dc088f2.js.map"
+    "main.css": "https://aboveourheads.github.io/static/css/main.861a4ae8.css",
+    "main.js": "https://aboveourheads.github.io/static/js/main.7ac6ccb2.js",
+    "static/media/preview.mp4": "https://aboveourheads.github.io/static/media/preview.e2efa2dc6f41c1b2b61b.mp4",
+    "static/media/roboto-all-400-normal.woff": "https://aboveourheads.github.io/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
+    "static/media/roboto-latin-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-latin-400-normal.4673b4537a84c7f7a130.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-cyrillic-ext-400-normal.493afe7ae8ecfe268800.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-latin-ext-400-normal.c3dcdbd5bb4d4af80817.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-cyrillic-400-normal.5e493812deabd1d01e60.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-greek-400-normal.1cbfc636c911faa4d0ca.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-vietnamese-400-normal.c0bec65d01f776c00c91.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
+    "index.html": "https://aboveourheads.github.io/index.html",
+    "main.861a4ae8.css.map": "https://aboveourheads.github.io/static/css/main.861a4ae8.css.map",
+    "main.7ac6ccb2.js.map": "https://aboveourheads.github.io/static/js/main.7ac6ccb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.97e3b31f.css",
-    "static/js/main.6dc088f2.js"
+    "static/css/main.861a4ae8.css",
+    "static/js/main.7ac6ccb2.js"
   ]
 }
