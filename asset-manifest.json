@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://aboveourheads.github.io/static/css/main.861a4ae8.css",
-    "main.js": "https://aboveourheads.github.io/static/js/main.1b94fef4.js",
+    "main.js": "https://aboveourheads.github.io/static/js/main.3b6e29ec.js",
     "static/media/preview.mp4": "https://aboveourheads.github.io/static/media/preview.e2efa2dc6f41c1b2b61b.mp4",
     "static/media/roboto-all-400-normal.woff": "https://aboveourheads.github.io/static/media/roboto-all-400-normal.376ea5d93f71583052f6.woff",
     "static/media/roboto-latin-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-latin-400-normal.4673b4537a84c7f7a130.woff2",
@@ -13,10 +13,10 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "https://aboveourheads.github.io/static/media/roboto-greek-ext-400-normal.bb723e8458c9c653e505.woff2",
     "index.html": "https://aboveourheads.github.io/index.html",
     "main.861a4ae8.css.map": "https://aboveourheads.github.io/static/css/main.861a4ae8.css.map",
-    "main.1b94fef4.js.map": "https://aboveourheads.github.io/static/js/main.1b94fef4.js.map"
+    "main.3b6e29ec.js.map": "https://aboveourheads.github.io/static/js/main.3b6e29ec.js.map"
   },
   "entrypoints": [
     "static/css/main.861a4ae8.css",
-    "static/js/main.1b94fef4.js"
+    "static/js/main.3b6e29ec.js"
   ]
 }
